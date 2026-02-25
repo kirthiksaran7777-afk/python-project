@@ -18,3 +18,4 @@ Measures like mean, median, and standard deviation were calculated to understand
 Conclusion
 
 The analysis reveals key factors influencing sales performance. Certain products or regions contribute more to total revenue. These insights can help the business improve marketing and sales strategies.
+demo-https://github.com/kirthiksaran7777-afk/python-project/blob/main/Untitled2.ipynb <br>
